@@ -1,0 +1,7 @@
+# Ignore KiCAD backup files
+*.bck
+*.bak
+*.kicad_pcb-bak
+
+# Ignore text editor temporary files
+*~
