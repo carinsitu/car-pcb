@@ -1,4 +1,4 @@
-update=mar. 18 juin 2019 15:34:05 CEST
+update=mer. 26 juin 2019 10:31:42 CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -29,5 +29,5 @@ version=1
 version=1
 LibDir=
 [eeschema/libraries]
-LibName1=/home/gwen/Agilack/Projects/Adial/Cartes_v3/hardware/prj-kicad/cartes_v3
-LibName2=carinsitu
+LibName1=carinsitu
+LibName2=/home/gwen/Agilack/Projects/Adial/Cartes_v3/hardware/prj-kicad/cartes_v3
