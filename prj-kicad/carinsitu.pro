@@ -1,4 +1,4 @@
-update=lun. 01 juil. 2019 15:14:59 CEST
+update=mer. 03 juil. 2019 10:17:26 CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -30,4 +30,3 @@ version=1
 LibDir=
 [eeschema/libraries]
 LibName1=carinsitu
-LibName2=/home/gwen/Agilack/Projects/pmod/rf-wifi/prj-kicad/pmod-wifi

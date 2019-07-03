@@ -5,4 +5,8 @@ D 2 pins connector
 K CONN
 $ENDCMP
 #
+$CMP SWITCH_SLIDE
+K switch
+$ENDCMP
+#
 #End Doc Library
