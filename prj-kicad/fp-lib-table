@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name carinsitu)(type KiCad)(uri "$(KIPRJMOD)/carinsitu.pretty")(options "")(descr ""))
+  (lib (name sensorbox)(type KiCad)(uri /home/gwen/Agilack/Projects/Climafrais/sensorbox/hardware/prj-kicad/sensorbox.pretty)(options "")(descr ""))
 )
