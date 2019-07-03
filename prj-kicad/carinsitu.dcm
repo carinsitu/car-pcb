@@ -5,6 +5,11 @@ D 2 pins connector
 K CONN
 $ENDCMP
 #
+$CMP CONN_3
+D 3 pins connector
+K CONN
+$ENDCMP
+#
 $CMP SWITCH_SLIDE
 K switch
 $ENDCMP
