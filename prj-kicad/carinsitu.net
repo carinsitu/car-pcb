@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/gwen/Agilack/Projects/OpusLabs/carinsitu/prj-kicad/carinsitu.sch)
-    (date "mer. 03 juil. 2019 22:16:10 CEST")
+    (date "ven. 05 juil. 2019 10:39:46 CEST")
     (tool "Eeschema 4.0.2+dfsg1-stable")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -252,6 +252,7 @@
       (tstamp 5D24BA62))
     (comp (ref P4)
       (value CONN_1)
+      (footprint carinsitu:TP)
       (libsource (lib carinsitu) (part CONN_1))
       (sheetpath (names /) (tstamps /))
       (tstamp 5D254928))
