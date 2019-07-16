@@ -10,6 +10,11 @@ D 3 pins connector
 K CONN
 $ENDCMP
 #
+$CMP CONN_4
+D 4 pins connector
+K CONN
+$ENDCMP
+#
 $CMP IR_TSOP22
 D Infrared receiver for IrDa application
 K IR IrDa
