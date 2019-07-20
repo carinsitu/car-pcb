@@ -1,4 +1,4 @@
 Carinsitu
 =========
 
-![Board outline preview](doc/pcb-3D-outline.png)
+![First Prototype](doc/pcb-with-components.jpg)
