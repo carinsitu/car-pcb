@@ -13,7 +13,7 @@ ToDo
  - Position irda -> Sous TP du enable U6
  - Déplacment ESC, vers couronne fixations droite
  - Irda, plié vers avant de la voiture (PIN1 en bas)
- - LEDs des phares, tourner empreinte de 90degres (position inchangée)
+ - ~~LEDs des phares, tourner empreinte de 90degres (position inchangée)~~
  - Déplacement Wifi vers l'arrière (le plus possible et/ou au moins 2 à 3 mm)
  - Fix circuit de reset ESP
  - Déplacer U2 vers le haut pour permettre de bouger U7,
