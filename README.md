@@ -21,3 +21,5 @@ ToDo
  - ~~LEDs des phares, tourner empreinte de 90degres (position inchangée)~~
  - ~~Déplacer U2 vers le haut pour permettre de bouger U7~~
  - ~~Ajouter une porte pour inverser signal PWM headlights~~
+
+![Preview of rev 2](doc/pcb-3D-outline.png)
