@@ -2,12 +2,8 @@
 
 ## Mandatory
 
- - Éloigner le connecteur UFL WiFi des fixations
-
  - 5V+ GND avec VTX, alim sur trous traversants
  - Déplacement VTX vers le haut de la carte (actuellement D4)
-
- - Pivoter le capteur IR de 90°
 
  - Remplacer les deux feux arrière par un seul connecteur pour les lED chainées
  - Couper les excroissances arrières (anciennement feux arrières)
