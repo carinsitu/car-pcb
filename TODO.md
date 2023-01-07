@@ -9,7 +9,4 @@
 
 ## Optional
 
- - Déplacer connecteur de debug/flash (P5)
  - Cabler un circuit de reset avec bouton sur carte
- - Déplacer ESC, vers l'arriere (un peu)
- - Déplacer IMU (U7) autant que possible vers l'avant
