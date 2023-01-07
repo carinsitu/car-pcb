@@ -5505,7 +5505,7 @@
     (property "Reference" "SW2" (id 0) (at 88.9 46.99 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SW_Push" (id 1) (at 96.52 44.45 0)
+    (property "Value" "Reset" (id 1) (at 97.155 45.72 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm" (id 2) (at 90.17 48.26 0)
@@ -5545,7 +5545,7 @@
     (property "Value" "CONN_3" (id 1) (at 274.955 20.4373 90)
       (effects (font (size 1.016 1.016)) (justify right))
     )
-    (property "Footprint" "carinsitu:CONN_61300311021" (id 2) (at 266.7 19.05 0)
+    (property "Footprint" "carinsitu:CONN_61300311121" (id 2) (at 266.7 19.05 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 266.7 19.05 0)
@@ -5899,7 +5899,7 @@
       (reference "P3") (unit 1) (value "CONN_3") (footprint "carinsitu:CONN_61300311021")
     )
     (path "/d8eed33f-3afa-4021-9e01-1f7eb77f574b"
-      (reference "P4") (unit 1) (value "CONN_3") (footprint "carinsitu:CONN_61300311021")
+      (reference "P4") (unit 1) (value "CONN_3") (footprint "carinsitu:CONN_61300311121")
     )
     (path "/00000000-0000-0000-0000-00005d2e467b"
       (reference "P5") (unit 1) (value "CONN_4") (footprint "carinsitu:CONN_61300411121")
@@ -5944,7 +5944,7 @@
       (reference "SW1") (unit 1) (value "SWITCH_SLIDE") (footprint "carinsitu:SW_L102xxxML")
     )
     (path "/c0953f61-06fb-48b6-8efa-bb086c1a612b"
-      (reference "SW2") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm")
+      (reference "SW2") (unit 1) (value "Reset") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm")
     )
     (path "/00000000-0000-0000-0000-00005d24ff79/00000000-0000-0000-0000-00005d25331a"
       (reference "TP1") (unit 1) (value "CONN_1") (footprint "carinsitu:TP_SMD")
