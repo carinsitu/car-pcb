@@ -5,9 +5,6 @@
  - 5V+ GND avec VTX, alim sur trous traversants
  - Déplacement VTX vers le haut de la carte (actuellement D4)
 
- - Remplacer les deux feux arrière par un seul connecteur pour les lED chainées
- - Couper les excroissances arrières (anciennement feux arrières)
-
  - Ajouter des points de tests sur les alims (5V, 3V3)
 
 ## Optional
