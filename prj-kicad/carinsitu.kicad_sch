@@ -2286,8 +2286,8 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 619777c9-6ed7-4bb5-8550-c8777f2d137c)
   )
-  (text "NOTE: The LED current is determined\nby R1. The value of this resistors should\nbe modified according to D1+D2 refs"
-    (at 250.19 158.75 0)
+  (text "NOTE: The LED current is determined by R2.\nThe value of this resistor should be modified\naccording to the specifications of D1 and D2.\nCurrent is approximately 288/R2, that is\n28.8mA for R2=10k."
+    (at 248.92 160.02 0)
     (effects (font (size 0.889 0.889)) (justify left bottom))
     (uuid 78809d19-a74f-48fe-9d37-b8dd811395bb)
   )
