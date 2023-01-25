@@ -3491,7 +3491,7 @@
     (property "Reference" "C13" (id 0) (at 74.93 144.78 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "C" (id 1) (at 74.93 149.86 0)
+    (property "Value" "0.47µF" (id 1) (at 74.93 149.86 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "carinsitu:SMD0603" (id 2) (at 73.66 147.32 0)
@@ -3510,7 +3510,7 @@
     (property "Reference" "C14" (id 0) (at 82.55 144.78 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "C" (id 1) (at 82.55 149.86 0)
+    (property "Value" "0.47µF" (id 1) (at 82.55 149.86 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "carinsitu:SMD0603" (id 2) (at 81.28 147.32 0)
@@ -4974,10 +4974,10 @@
       (reference "C12") (unit 1) (value "100nF") (footprint "carinsitu:SMD0603")
     )
     (path "/00000000-0000-0000-0000-00005d26d447"
-      (reference "C13") (unit 1) (value "C") (footprint "carinsitu:SMD0603")
+      (reference "C13") (unit 1) (value "0.47µF") (footprint "carinsitu:SMD0603")
     )
     (path "/00000000-0000-0000-0000-00005d26d4c0"
-      (reference "C14") (unit 1) (value "C") (footprint "carinsitu:SMD0603")
+      (reference "C14") (unit 1) (value "0.47µF") (footprint "carinsitu:SMD0603")
     )
     (path "/00000000-0000-0000-0000-00005d2c6e10"
       (reference "C15") (unit 1) (value "100nF") (footprint "carinsitu:SMD0603")
