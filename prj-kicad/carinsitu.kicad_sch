@@ -2974,10 +2974,10 @@
     (pin "9" (uuid 58b897c0-2161-4289-8e31-67e63ecbb676))
   )
 
-  (symbol (lib_id "carinsitu:CONN_2") (at 275.59 62.23 0) (mirror x) (unit 1)
+  (symbol (lib_id "carinsitu:CONN_2") (at 275.59 62.23 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005d08f0d6)
-    (property "Reference" "P2" (id 0) (at 275.59 55.88 0)
+    (property "Reference" "P2" (id 0) (at 275.59 68.58 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "MOT" (id 1) (at 275.59 62.23 90)
