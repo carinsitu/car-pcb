@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.1,
-          "height": 1.8,
-          "width": 1.8
+          "drill": 4.0,
+          "height": 2.5,
+          "width": 4.0
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -60,8 +60,8 @@
         "courtyards_overlap|142709999|95285001|8e8bee1a-d096-47e7-8c7d-4a6520c07076|f7659bf0-d5e2-4ae8-98a5-589cd634bf93",
         "silk_over_copper|117552200|113500000|cf47d99f-ef4b-40b6-b4c7-d7ac9bbf42a9|756626a6-039c-4517-a398-c906f4d622bc",
         "silk_over_copper|140872200|113500000|cf47d99f-ef4b-40b6-b4c7-d7ac9bbf42a9|cb2946fd-4894-4ec1-ae23-d82bfee9d220",
-        "silk_over_copper|182500000|125755400|af4e0441-58a6-43ff-bcda-68eec2dec141|611ab440-4d2a-4321-9f8d-dcf53d7a4f74",
-        "silk_over_copper|182500000|128295400|af4e0441-58a6-43ff-bcda-68eec2dec141|0a95b6e8-557c-4b96-8d55-d2c54e8aba4c"
+        "silk_over_copper|182500000|125552200|af4e0441-58a6-43ff-bcda-68eec2dec141|611ab440-4d2a-4321-9f8d-dcf53d7a4f74",
+        "silk_over_copper|182500000|128092200|af4e0441-58a6-43ff-bcda-68eec2dec141|0a95b6e8-557c-4b96-8d55-d2c54e8aba4c"
       ],
       "meta": {
         "filename": "board_design_settings.json",
