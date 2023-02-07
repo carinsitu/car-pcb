@@ -21,6 +21,15 @@ Its licensed under _GPLv3_.
 
 ![Preview of rev 2](doc/pcb-3D-outline.png)
 
+## Manufacturing note
+
+The PCB is designed with "standard" isolation (≥ 6 mil) for the most part, except in the area of the IMU (U7) whose package is just under 6 mil, and battery gauge (U3) whose package is just under 5 mil.
+
+There are overlapping components:
+- R1, C12, C13 with U1: U1 is high enough for this to work
+- D3 with F1: F1 is intended to be leant horizontally towards the rear of the car
+- RB5 with RB10: one pad is common so that they are not on board together
+
 ## Misc
 
 Note: Feel free to contact [neomilium](https://github.com/neomilium) if you want to turn this into commercial product.
