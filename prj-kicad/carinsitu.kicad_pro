@@ -154,7 +154,10 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      "pin_to_pin|1993900|914400|924ad698-773f-4ecb-8987-7cd611790b0c|57d9c38e-de4c-461d-b16f-226182ff5243",
+      "pin_to_pin|1993900|939800|f723026e-d100-408e-81c2-b931e8a13f80|57d9c38e-de4c-461d-b16f-226182ff5243"
+    ],
     "meta": {
       "version": 0
     },

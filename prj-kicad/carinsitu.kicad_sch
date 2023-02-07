@@ -901,7 +901,7 @@
           (name "SW" (effects (font (size 1.27 1.27))))
           (number "6" (effects (font (size 1.27 1.27))))
         )
-        (pin power_out line (at -11.43 2.54 0) (length 3.81)
+        (pin passive line (at -11.43 2.54 0) (length 3.81)
           (name "GND" (effects (font (size 0.635 0.635))))
           (number "7" (effects (font (size 1.27 1.27))))
         )
@@ -1356,6 +1356,7 @@
     )
   )
 
+
   (junction (at 77.47 128.27) (diameter 0) (color 0 0 0 0)
     (uuid 006d8235-8a2e-4a59-a87c-fcd2ae9cb8f8)
   )
@@ -1469,6 +1470,9 @@
   )
   (junction (at 253.365 90.17) (diameter 0) (color 0 0 0 0)
     (uuid c11bf0c7-d94c-4969-a4a7-62be345b5f03)
+  )
+  (junction (at 69.85 186.055) (diameter 0) (color 0 0 0 0)
+    (uuid cfc48eba-aa07-42d9-9a13-73187ab7df51)
   )
   (junction (at 119.38 53.975) (diameter 0) (color 0 0 0 0)
     (uuid d034b577-3aa6-43f7-a68a-49373858a3bb)
@@ -1603,6 +1607,10 @@
   (wire (pts (xy 185.42 85.725) (xy 189.865 85.725))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 11dacef9-3c6b-486d-a557-c674b378a0b7)
+  )
+  (wire (pts (xy 69.85 186.055) (xy 71.12 186.055))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid 12211f28-dac9-4d3b-b145-e6b7a438965d)
   )
   (wire (pts (xy 203.835 137.16) (xy 207.01 137.16))
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -3834,6 +3842,24 @@
     (pin "5" (uuid 76a816eb-bb13-4312-b952-cdd61076d8ae))
   )
 
+  (symbol (lib_id "power:PWR_FLAG") (at 71.12 186.055 270) (unit 1)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (uuid 172b8e6b-715e-4a39-b803-982f7a1cef45)
+    (property "Reference" "#FLG01" (id 0) (at 73.025 186.055 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "PWR_FLAG" (id 1) (at 74.295 186.4888 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "" (id 2) (at 71.12 186.055 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (id 3) (at 71.12 186.055 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 57d9c38e-de4c-461d-b16f-226182ff5243))
+  )
+
   (symbol (lib_id "carinsitu:GND") (at 222.25 71.12 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 1e60bb4e-69aa-48da-9624-cf8eba207f95)
@@ -5262,6 +5288,9 @@
   )
 
   (symbol_instances
+    (path "/172b8e6b-715e-4a39-b803-982f7a1cef45"
+      (reference "#FLG01") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
     (path "/72432868-7bcd-4a68-adb7-1800ac178c45"
       (reference "#FLG0101") (unit 1) (value "PWR_FLAG") (footprint "")
     )
