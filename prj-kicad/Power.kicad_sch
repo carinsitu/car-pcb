@@ -1120,7 +1120,7 @@
   (symbol (lib_id "carinsitu:R") (at 116.84 100.33 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 9f9c1a17-fea7-463b-8450-412ff7235a46)
-    (property "Reference" "R3" (id 0) (at 116.84 102.87 90))
+    (property "Reference" "R4" (id 0) (at 116.84 102.87 90))
     (property "Value" "1k" (id 1) (at 116.84 100.33 90))
     (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (id 2) (at 116.84 100.33 0)
       (effects (font (size 1.524 1.524)) hide)
