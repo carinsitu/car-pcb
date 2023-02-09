@@ -1008,7 +1008,6 @@
     )
   )
 
-
   (junction (at 247.015 19.05) (diameter 0) (color 0 0 0 0)
     (uuid 0b8954f4-e66c-45a6-b762-b503e3c79b9f)
   )
@@ -4534,6 +4533,9 @@
     )
     (path "/6467a037-d58a-4293-a5eb-5a7029a9f6eb"
       (reference "#PWR0101") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/ba4fef80-a9ce-4cb4-aec9-fcaf0b8dbcb2/fcf6be79-2cd8-4579-afc6-cbc94958d875"
+      (reference "#PWR?") (unit 1) (value "GNDD") (footprint "")
     )
     (path "/3ebc1b7b-2034-43f0-af58-d3ac869e9a69"
       (reference "C1") (unit 1) (value "4,7uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
