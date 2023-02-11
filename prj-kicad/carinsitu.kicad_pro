@@ -44,8 +44,8 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "45_degree_only": false,
-          "min_clearance": 0.0
+          "45_degree_only": true,
+          "min_clearance": 0.19999999999999998
         }
       },
       "diff_pair_dimensions": [
@@ -72,7 +72,7 @@
       },
       "rule_severities": {
         "annular_width": "error",
-        "clearance": "error",
+        "clearance": "ignore",
         "copper_edge_clearance": "error",
         "courtyards_overlap": "error",
         "diff_pair_gap_out_of_range": "error",
@@ -445,6 +445,10 @@
     [
       "34cf681e-0574-4c78-adf1-5ecbe914223b",
       ""
+    ],
+    [
+      "ba4fef80-a9ce-4cb4-aec9-fcaf0b8dbcb2",
+      "Power"
     ]
   ],
   "text_variables": {}
