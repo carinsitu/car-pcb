@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.0,
-          "height": 1.6,
-          "width": 2.0
+          "drill": 3.0,
+          "height": 5.0,
+          "width": 5.0
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -44,7 +44,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "45_degree_only": true,
+          "45_degree_only": false,
           "min_clearance": 0.19999999999999998
         }
       },
@@ -72,7 +72,7 @@
       },
       "rule_severities": {
         "annular_width": "error",
-        "clearance": "ignore",
+        "clearance": "error",
         "copper_edge_clearance": "error",
         "courtyards_overlap": "error",
         "diff_pair_gap_out_of_range": "error",
@@ -155,11 +155,7 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [
-      "pin_to_pin|1358900|831850|b5d23200-f840-4b0f-901a-c5878ace8121|673f9cfc-bc67-4a12-a970-0e43e2d0d5fa",
-      "pin_to_pin|1993900|914400|924ad698-773f-4ecb-8987-7cd611790b0c|4f62b8f7-85d5-4f9a-92e5-969f176efc77",
-      "pin_to_pin|1993900|939800|f723026e-d100-408e-81c2-b931e8a13f80|4f62b8f7-85d5-4f9a-92e5-969f176efc77"
-    ],
+    "erc_exclusions": [],
     "meta": {
       "version": 0
     },
