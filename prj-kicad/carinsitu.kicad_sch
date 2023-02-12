@@ -6106,10 +6106,10 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e4159f1d-2632-4a1d-831e-60bd19ed13d1)
     (property "Reference" "F1" (id 0) (at 57.785 46.0812 0))
-    (property "Value" "Fuse_Small" (id 1) (at 57.785 46.0811 0)
+    (property "Value" "Fuse" (id 1) (at 57.785 46.0811 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "Fuse:Fuse_Littelfuse-LVR100" (id 2) (at 57.785 47.625 0)
+    (property "Footprint" "Fuse:Fuse_Littelfuse_395Series" (id 2) (at 57.785 47.625 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 57.785 47.625 0)
@@ -6703,7 +6703,7 @@
       (reference "D5") (unit 1) (value "IR_TSOP22") (footprint "carinsitu:CONN_61300311121")
     )
     (path "/e4159f1d-2632-4a1d-831e-60bd19ed13d1"
-      (reference "F1") (unit 1) (value "Fuse_Small") (footprint "Fuse:Fuse_Littelfuse-LVR100")
+      (reference "F1") (unit 1) (value "Fuse") (footprint "Fuse:Fuse_Littelfuse_395Series")
     )
     (path "/00000000-0000-0000-0000-00005d08e86d"
       (reference "FIX1") (unit 1) (value "CONN_1") (footprint "carinsitu:FIX")
