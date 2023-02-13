@@ -6,20 +6,24 @@ Its licensed under _GPLv3_.
 
 ![First Prototype](doc/pcb-with-components.jpg)
 
+↑ The above photo is of proto 1
+
 ## Features
 
- - ESP8285 MCU
- - External antenna through UFL connector
+ - ESP82xx MCU
+ - External antenna through UFL connector (using Lolin D1 mini pro)
  - Front head light (High-efficiency LEDs)
  - RBG LED port (APA106/WS2812)
  - PPM-driven ESC for brushed motor (external module based)
  - PPM-driven steering
- - IR receiver (TSOP3xx series)
- - VTX port (aka SmartAudio port)
+ - IR receiver (TSOP22xx series)
+ - VTX port (here uart for Walksnail's HD Avatar VTX)
  - IMU (not tested)
  - Battery gauge (not tested)
 
-![Preview of rev 2](doc/pcb-3D-outline.png)
+![Preview of v0.4](doc/pcb-3D-outline.jpg)
+
+↑ The above screenshot is a 3D preview of v0.4
 
 ## Manufacturing note
 
