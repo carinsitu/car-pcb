@@ -5099,7 +5099,7 @@
     (property "Datasheet" "" (id 3) (at 20.32 67.945 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Manufacturer" "Wurth" (id 4) (at 20.32 67.945 0)
+    (property "Manufacturer" "Würth elektronik" (id 4) (at 20.32 67.945 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Manuf Ref" "61300211021" (id 5) (at 20.32 67.945 0)
