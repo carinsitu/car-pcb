@@ -16,10 +16,10 @@ Its licensed under _GPLv3_.
  - RBG LED port (APA106/WS2812)
  - PPM-driven ESC for brushed motor (external module based)
  - PPM-driven steering
- - IR receiver (TSOP22xx series)
- - VTX port (here uart for Walksnail's HD Avatar VTX)
- - IMU (not tested)
- - Battery gauge (not tested)
+ - IR receiver
+ - VTX port (UART)
+ - IMU
+ - Battery gauge
 
 ![Preview of v0.4](doc/pcb-3D-outline.jpg)
 
